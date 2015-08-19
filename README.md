@@ -1,7 +1,7 @@
 # Get-Clean-Data-Project
 ## Solution of Coursera "Getting and Cleaning Data" Course Project
 
-The programm creates a tidy dataset out of data collected from the accelerometers from the Samsung Galaxy S smartphone.
+The programm run_analysis.R creates a tidy dataset out of data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 First the necessary data is uploaded to R
 
@@ -22,3 +22,5 @@ in the following the different tasks
 are performed.
 
 The result is a file extract with the final tidy dataset.
+
+run_analysis.R can be run as long as the Samsung data (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is in your working directory.
